@@ -1,6 +1,6 @@
 # VideoWrapperContainer
 
-Fix Video Jump isdues when Played or Overflow Issue
+Fix Video Jump issues when Played or Overflow Issue
 
 ```
 .videoWrapper {
